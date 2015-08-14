@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.1 (unreleased)
+1.1 (2015-08-14)
 ----------------
 
-- Nothing changed yet.
-
+* Updated [Victor Fernandez de Alba]
 
 1.0 (2015-08-11)
 ----------------
