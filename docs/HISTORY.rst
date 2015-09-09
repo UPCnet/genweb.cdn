@@ -1,11 +1,12 @@
 Changelog
 =========
 
-1.5 (unreleased)
+1.5 (2015-09-09)
 ----------------
 
-- Nothing changed yet.
-
+* new build [Pilar Marinas]
+* new build [Pilar Marinas]
+* new version blanquerna [Paco Gregori]
 
 1.4 (2015-09-09)
 ----------------
