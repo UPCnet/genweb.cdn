@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.4.dev0'
+version = '1.4'
 
 README = open("README.rst").read()
 HISTORY = open(os.path.join("docs", "HISTORY.rst")).read()
@@ -21,7 +21,7 @@ setup(name='genweb.cdn',
           "Topic :: Software Development :: Libraries :: Python Modules",
       ],
       keywords='genweb resources',
-      author='Víctor Fernández de Alba',
+      author='Victor Fernandez de Alba',
       author_email='sneridagh@gmail.com',
       url='https://github.com/UPCnet/genweb.cdn',
       license='GPL',
