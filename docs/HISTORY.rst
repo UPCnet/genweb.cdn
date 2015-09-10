@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.6 (unreleased)
+1.6 (2015-09-10)
 ----------------
 
-- Nothing changed yet.
-
+* new build [Pilar Marinas]
 
 1.5 (2015-09-09)
 ----------------
