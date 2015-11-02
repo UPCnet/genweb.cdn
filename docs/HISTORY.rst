@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.9 (unreleased)
+1.9 (2015-11-02)
 ----------------
 
-- Nothing changed yet.
-
+* build blanquerna js [Paco Gregori]
 
 1.8 (2015-10-27)
 ----------------
