@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.10 (unreleased)
+1.10 (2015-11-02)
 -----------------
 
-- Nothing changed yet.
-
+* updated [Roberto Diaz]
 
 1.9 (2015-11-02)
 ----------------
