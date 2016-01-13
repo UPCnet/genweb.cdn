@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.13 (unreleased)
+1.13 (2016-01-13)
 -----------------
 
-- Nothing changed yet.
-
+* add version for blanquerna [Paco Gregori]
+* new build [Pilar Marinas]
 
 1.12 (2015-12-01)
 -----------------
