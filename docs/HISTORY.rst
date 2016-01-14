@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.18 (unreleased)
+1.18 (2016-01-14)
 -----------------
 
-- Nothing changed yet.
-
+* new build [Pilar Marinas]
 
 1.17 (2016-01-14)
 -----------------
