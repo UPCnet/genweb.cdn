@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.15 (unreleased)
+1.15 (2016-01-14)
 -----------------
 
-- Nothing changed yet.
-
+* cdn blanquerna [Paco Gregori]
 
 1.14 (2016-01-13)
 -----------------
