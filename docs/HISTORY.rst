@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.21 (unreleased)
+1.21 (2016-01-20)
 -----------------
 
-- Nothing changed yet.
-
+* fix grunt [Pilar Marinas]
+* Fix grunt [Pilar Marinas]
 
 1.20 (2016-01-19)
 -----------------
