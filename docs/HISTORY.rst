@@ -1,11 +1,22 @@
 Changelog
 =========
 
-1.23 (unreleased)
+1.25 (unreleased)
 -----------------
 
 - Nothing changed yet.
 
+
+1.24 (2016-02-02)
+-----------------
+
+* Fix build [Pilar Marinas]
+
+1.23 (2016-01-28)
+-----------------
+
+* compile genweb cdn [Alberto Duran]
+* icon_blank in separate function [Alberto Duran]
 
 1.22 (2016-01-20)
 -----------------
