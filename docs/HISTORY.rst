@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.25 (unreleased)
+1.25 (2016-02-10)
 -----------------
 
-- Nothing changed yet.
-
+* nexus24 cdn [Paco Gregori]
+* compile for nexus24 [Paco Gregori]
 
 1.24 (2016-02-02)
 -----------------
