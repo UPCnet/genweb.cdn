@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.27 (unreleased)
+1.27 (2016-03-17)
 -----------------
 
-- Nothing changed yet.
-
+* Fix grunt ulearn js [Pilar Marinas]
+* ulearn theme changes [Paco Gregori]
 
 1.26 (2016-02-22)
 -----------------
