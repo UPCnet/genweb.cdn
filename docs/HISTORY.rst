@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.28 (unreleased)
+1.28 (2016-04-04)
 -----------------
 
-- Nothing changed yet.
-
+* cdn blanquerna [Paco Gregori]
 
 1.27 (2016-03-17)
 -----------------
