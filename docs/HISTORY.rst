@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.29 (unreleased)
+1.29 (2016-04-04)
 -----------------
 
-- Nothing changed yet.
-
+* changes blanquerna [Paco Gregori]
 
 1.28 (2016-04-04)
 -----------------
