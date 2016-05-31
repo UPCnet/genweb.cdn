@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.30 (unreleased)
+1.30 (2016-05-31)
 -----------------
 
-- Nothing changed yet.
-
+* blanquerna cdn [Paco Gregori]
+* add cdn udemo [Paco Gregori]
 
 1.29 (2016-04-04)
 -----------------
