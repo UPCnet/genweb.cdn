@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.31 (unreleased)
+1.31 (2016-06-27)
 -----------------
 
-- Nothing changed yet.
-
+* changes cdn [roberto.diaz]
+* updated intranet CSS [roberto.diaz]
 
 1.30 (2016-05-31)
 -----------------
