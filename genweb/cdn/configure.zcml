@@ -25,6 +25,12 @@
         name="dist"
     />
 
+    <plone:static
+        directory="mixin"
+        type="genweb"
+        name="mixin"
+    />
+
     <!-- Register the installation GenericSetup extension profile -->
     <genericsetup:registerProfile
         name="default"
