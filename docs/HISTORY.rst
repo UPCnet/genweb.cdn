@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.34 (unreleased)
+1.34 (2016-10-05)
 -----------------
 
-- Nothing changed yet.
-
+* add ulearn js [Paco Gregori]
 
 1.33 (2016-10-05)
 -----------------
