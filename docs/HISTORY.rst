@@ -1,11 +1,12 @@
 Changelog
 =========
 
-1.33 (unreleased)
+1.33 (2016-10-05)
 -----------------
 
-- Nothing changed yet.
-
+* plone js integrate cdn [Paco Gregori]
+* add cdn mixin js [Paco Gregori]
+* cdn proves juntar tot unic js [Paco Gregori]
 
 1.32 (2016-09-21)
 -----------------
