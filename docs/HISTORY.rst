@@ -1,11 +1,12 @@
 Changelog
 =========
 
-1.35 (unreleased)
+1.35 (2016-10-24)
 -----------------
 
-- Nothing changed yet.
-
+* add blanquerna cdn mixin js [Paco Gregori]
+* cdn ulearn.js [Paco Gregori]
+* add genweb.js cdn [Paco Gregori]
 
 1.34 (2016-10-05)
 -----------------
