@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.36 (unreleased)
+1.36 (2016-11-03)
 -----------------
 
-- Nothing changed yet.
-
+* udemo cdn [Paco Gregori]
 
 1.35 (2016-10-24)
 -----------------
