@@ -7,7 +7,13 @@
         var elem_data = elem.data();
         var portlethash = pw.attr('id');
         portlethash = portlethash.substring(15, portlethash.length);
-        url = portal_url +
+        var comnunity = $('#box_community')
+        var is_community = comnunity.length > 0
+        var base_url = portal_url + '/'
+        if (is_community)
+            base_url = $('head base').attr('href')
+
+        url = base_url +
               '/@@render-portlet?portlethash=' + portlethash +
               '&year=' + elem_data.year +
               '&month=' + elem_data.month;
@@ -31,6 +37,20 @@
         $('.portletCalendar dd a[title]').tooltip({
             offset: [-10, 0],
             tipClass: 'pae_calendar_tooltip'
+        });
+        try {
+            $('[rel="popover"]').popover();
+        }
+        catch (e) {
+            console.log('This instance seems that doesn\'t have bootstrap.popover loaded')
+        }
+        // Prevent click on calendar events to allow popover
+        $('.cal_has_events').click(function (event) {
+            event.preventDefault();
+            $('.popover-content').off('click').on('click', 'a' , function() {
+                window.location=this.href;
+             });
+
         });
     }
 
