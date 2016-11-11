@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.37 (unreleased)
+1.37 (2016-11-11)
 -----------------
 
-- Nothing changed yet.
-
+* ulearn cdn fix portlet_calendar bug [Paco Gregori]
+* Fix portlet_calendar.js bug [Santi]
 
 1.36 (2016-11-03)
 -----------------
