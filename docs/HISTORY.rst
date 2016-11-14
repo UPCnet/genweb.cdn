@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.38 (unreleased)
+1.38 (2016-11-14)
 -----------------
 
-- Nothing changed yet.
-
+* Update genweb.js to include collage.js [Santi]
 
 1.37 (2016-11-11)
 -----------------
