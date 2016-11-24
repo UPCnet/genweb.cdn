@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.39 (unreleased)
+1.39 (2016-11-24)
 -----------------
 
-- Nothing changed yet.
-
+* add ulearn cdn [Paco Gregori]
 
 1.38 (2016-11-14)
 -----------------
