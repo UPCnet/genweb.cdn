@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.41 (unreleased)
+1.41 (2016-11-25)
 -----------------
 
-- Nothing changed yet.
-
+* add css [Paco Gregori]
 
 1.40 (2016-11-25)
 -----------------
