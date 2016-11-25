@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.40 (unreleased)
+1.40 (2016-11-25)
 -----------------
 
-- Nothing changed yet.
-
+* cdn ulearn searchers news [Paco Gregori]
 
 1.39 (2016-11-24)
 -----------------
