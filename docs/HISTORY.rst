@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.42 (unreleased)
+1.42 (2016-11-27)
 -----------------
 
-- Nothing changed yet.
-
+* add maxicons files [Paco Gregori]
 
 1.41 (2016-11-25)
 -----------------
