@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.43 (unreleased)
+1.43 (2016-11-29)
 -----------------
 
-- Nothing changed yet.
-
+* add blanquerna js [Paco Gregori]
 
 1.42 (2016-11-27)
 -----------------
