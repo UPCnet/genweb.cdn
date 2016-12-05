@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.44 (unreleased)
+1.44 (2016-12-05)
 -----------------
 
-- Nothing changed yet.
-
+* add ulearn.theme cdn [Paco Gregori]
 
 1.43 (2016-11-29)
 -----------------
