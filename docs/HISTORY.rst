@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.45 (unreleased)
+1.45 (2017-02-01)
 -----------------
 
-- Nothing changed yet.
-
+* ulearn css cdn [Paco Gregori]
 
 1.44 (2016-12-05)
 -----------------
