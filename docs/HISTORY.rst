@@ -1,10 +1,16 @@
 Changelog
 =========
 
+1.47 (unreleased)
+-----------------
+
+- Nothing changed yet.
+
+
 1.46 (2017-02-08)
 -----------------
 
-* ulearn.js, maquetaci贸n para blanquerna [Paco Gregori]
+* ulearn.js, maquetacič´¸n para blanquerna [Paco Gregori]
 
 1.45 (2017-02-01)
 -----------------
