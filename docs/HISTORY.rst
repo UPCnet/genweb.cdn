@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.47 (unreleased)
+1.47 (2017-02-14)
 -----------------
 
-- Nothing changed yet.
-
+* updated [roberto.diaz]
 
 1.46 (2017-02-08)
 -----------------
