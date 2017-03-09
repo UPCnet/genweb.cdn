@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.48 (unreleased)
+1.48 (2017-03-09)
 -----------------
 
-- Nothing changed yet.
-
+* add genweb.js cdn [Paco Gregori]
 
 1.47 (2017-02-14)
 -----------------
