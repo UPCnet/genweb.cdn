@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.49 (unreleased)
+1.49 (2017-06-08)
 -----------------
 
-- Nothing changed yet.
-
+* add ulearn.js [Pilar Marinas]
+* add ulearn.theme css [Pilar Marinas]
 
 1.48 (2017-03-09)
 -----------------
