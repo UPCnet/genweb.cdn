@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.50 (unreleased)
+1.50 (2017-07-12)
 -----------------
 
-- Nothing changed yet.
-
+* cdn ulearn theme [Pilar Marinas]
+* Grunt ulearn.js [Pilar Marinas]
 
 1.49 (2017-06-08)
 -----------------
