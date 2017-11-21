@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.51 (unreleased)
+1.51 (2017-11-21)
 -----------------
 
-- Nothing changed yet.
-
+* cdn ulearn theme y ulearn js [Pilar Marinas]
 
 1.50 (2017-07-12)
 -----------------
