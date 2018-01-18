@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.53 (unreleased)
+1.53 (2018-01-18)
 -----------------
 
-- Nothing changed yet.
-
+* cdn ulearn.theme [iago.lopez]
+* New cdn ulearn.theme [Pilar Marinas]
 
 1.52 (2017-12-19)
 -----------------
