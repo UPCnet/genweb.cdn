@@ -1,11 +1,12 @@
 Changelog
 =========
 
-1.54 (unreleased)
+1.54 (2018-03-08)
 -----------------
 
-- Nothing changed yet.
-
+* updated js with plone_calendar.js [Roberto Diaz]
+* Aplicar lenguaje actual de la página al actualizar mes del calendario [iago.lopez]
+* updated icons [Roberto Diaz]
 
 1.53 (2018-01-18)
 -----------------
