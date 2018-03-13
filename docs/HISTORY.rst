@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.55 (unreleased)
+1.55 (2018-03-13)
 -----------------
 
-- Nothing changed yet.
-
+* Solucion a: Aplicar lenguaje actual de la página al actualizar mes del calendario [iago.lopez]
 
 1.54 (2018-03-08)
 -----------------
