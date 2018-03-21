@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.56 (unreleased)
+1.56 (2018-03-21)
 -----------------
 
-- Nothing changed yet.
-
+* Actualizar fichero de prod con cambios portlet_calendar.js [Corina Riba]
 
 1.55 (2018-03-13)
 -----------------
