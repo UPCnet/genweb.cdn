@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.57 (unreleased)
+1.57 (2018-03-29)
 -----------------
 
-- Nothing changed yet.
-
+* Select the active button in the button bar [Pilar Marinas]
 
 1.56 (2018-03-21)
 -----------------
