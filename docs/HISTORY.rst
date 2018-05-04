@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.58 (unreleased)
+1.58 (2018-05-04)
 -----------------
 
-- Nothing changed yet.
-
+* Compiled js [Corina Riba]
+* Funcionamiento calendario en los comunidades [iago.lopez]
 
 1.57 (2018-03-29)
 -----------------
