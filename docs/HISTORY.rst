@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.59 (unreleased)
+1.59 (2018-05-15)
 -----------------
 
-- Nothing changed yet.
-
+* Add new genweb.js version [Corina Riba]
 
 1.58 (2018-05-04)
 -----------------
