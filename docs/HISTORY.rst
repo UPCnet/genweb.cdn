@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.60 (unreleased)
+1.60 (2018-05-22)
 -----------------
 
-- Nothing changed yet.
-
+* CSS ulearn.theme portlet flashesinformativos [iago.lopez]
 
 1.59 (2018-05-15)
 -----------------
