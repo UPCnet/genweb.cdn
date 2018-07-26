@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.61 (unreleased)
+1.61 (2018-07-26)
 -----------------
 
-- Nothing changed yet.
-
+* New grunt ulearn.theme [Pilar Marinas]
 
 1.60 (2018-05-22)
 -----------------
