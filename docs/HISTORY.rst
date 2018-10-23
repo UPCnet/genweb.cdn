@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.62 (unreleased)
+1.62 (2018-10-23)
 -----------------
 
-- Nothing changed yet.
-
+* New grunt ulearn.theme [iago.lopez]
 
 1.61 (2018-07-26)
 -----------------
