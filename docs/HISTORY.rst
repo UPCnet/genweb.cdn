@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.63 (unreleased)
+1.63 (2019-02-14)
 -----------------
 
-- Nothing changed yet.
-
+* Compiled js [Corina Riba]
 
 1.62 (2018-10-23)
 -----------------
