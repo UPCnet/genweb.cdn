@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.65 (unreleased)
+1.65 (2020-04-21)
 -----------------
 
-- Nothing changed yet.
-
+* Grunt gwbuild blanquerna modificar busqueda directorio [pilar.marinas]
 
 1.64 (2019-03-18)
 -----------------
