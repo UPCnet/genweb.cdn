@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.66 (unreleased)
+1.66 (2021-02-24)
 -----------------
 
-- Nothing changed yet.
-
+* Grunt genweb.js 24/02/2021 [Iago López Fernández]
 
 1.65 (2020-04-21)
 -----------------
