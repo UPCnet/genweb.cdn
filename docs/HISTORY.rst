@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.68 (unreleased)
+1.68 (2021-04-28)
 -----------------
 
-- Nothing changed yet.
-
+* Merge remote-tracking branch 'origin/cookies' into develop [Iago López Fernández]
 
 1.67 (2021-03-22)
 -----------------
